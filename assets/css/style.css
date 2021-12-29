@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(193, 235, 255);
+    text-align: center;
+    color: rgb(49, 49, 49);
+    font-family: 'Inconsolata', monospace;
+    font-size: 36px;
+}
+
+button {
+    width: 50px;
+    height: 50px;
+    background-color: gold;
+    border-radius: 40%;
+}
